@@ -1,6 +1,17 @@
 # MinAndMaxInputAndInputCalculatorChallenge and InputThenPrintSumAndAverage from Udemy's Java 
 # Programming Masterclass for Software Developers
 
+MinAndMaxInputCalculatorChallenge
+
+-Read the numbers from the console entered by the user and print the minimum and maximum number the user has entered.
+-Before the user enters the number, print the message ÅgEnter number:Åh
+-If the user enters an invalid number, break out of the loop and print the minimum and maximum number.
+
+Hint: 
+-Use an endless while loop.
+
+
+------------------------------------------------------------------------------------------------------------------
 Input Calculator
 
 Write a method called inputThenPrintSumAndAverage that does not have any parameters.
